@@ -19,8 +19,8 @@ namespace Win_Folder
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Frame1 fra = new Frame1();
-            fra.Visible = true;
+            Frame1 fr = new Frame1();
+            fr.Visible = true;
             this.Visible=false;
         }
 
